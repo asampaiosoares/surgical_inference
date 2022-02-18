@@ -1,5 +1,6 @@
 ---
-title: "Post: Hello world" 
+layout: post
+title: "Hello world" 
 last_modified_at: "17/02/2022"
 categories:
   - Blog

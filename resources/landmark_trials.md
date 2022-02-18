@@ -1,6 +1,6 @@
 ---
 title: "Landmark trials in surgery"
-last_modified_at: insert date here (DD-MM_YYYY)
+last_modified_at: "17/02/2022"
 categories:
   - Resources
 tags:
